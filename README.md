@@ -1,16 +1,159 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**DevAyushKumar/DevAyushKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ayush Kumar
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BCA+Student+%40+SRM+IST+KTR;Aspiring+Backend+Developer;Learning+JavaScript+%7C+DSA+%7C+Node.js;Future+Cybersecurity+Engineer" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://komarev.com/ghpvc/?username=DevAyushKumar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+</div>
+
+---
+
+# 🚀 About Me
+
+🎓 BCA Student at **SRM Institute of Science and Technology (KTR Campus)**
+
+💻 Currently learning **JavaScript**, **Data Structures & Algorithms**, and **Backend Development**
+
+🎯 My goal is to become a **Backend Software Engineer** and later specialize in **Cybersecurity**.
+
+🌱 I believe in learning by building real-world projects and improving every day.
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,js,html,css" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode" />
+</p>
+
+### Planning to Learn
+
+- Authentication
+- REST APIs
+- System Design
+- Docker
+- Linux
+- Cybersecurity Fundamentals
+
+---
+
+# 📚 Current Roadmap
+
+✅ C Programming
+
+✅ Git & GitHub
+
+✅ HTML & CSS
+
+🔄 JavaScript
+
+⬜ DSA
+
+⬜ Node.js
+
+⬜ Express.js
+
+⬜ Databases
+
+⬜ Full Stack Projects
+
+⬜ Open Source
+
+---
+
+# 🎯 2026 Goals
+
+- 📖 Master JavaScript
+- 💻 Build 10+ Quality Projects
+- 🧩 Solve 300+ DSA Problems
+- 🌍 Participate in Hackathons
+- ⭐ Contribute to Open Source
+- 🚀 Become Job Ready
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DevAyushKumar&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=DevAyushKumar&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAyushKumar&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+# 🛠 Tools I Use
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux" />
+</p>
+
+---
+
+# 📈 Learning Focus
+
+```text
+Backend Development      ██████████░░░░░
+JavaScript               █████████░░░░░░
+DSA                      ███████░░░░░░░░
+Problem Solving          ████████░░░░░░░
+Cybersecurity            ███░░░░░░░░░░░░
+```
+
+---
+
+# 🌟 Featured Projects
+
+🚧 Coming Soon...
+
+- JavaScript Projects
+- REST APIs
+- Backend Applications
+- Database Projects
+- Full Stack Projects
+
+---
+
+# 🧠 Currently Exploring
+
+- JavaScript Internals
+- Clean Code
+- API Development
+- SQL & MongoDB
+- Backend Architecture
+- Linux
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+<a href="https://github.com/DevAyushKumar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Quote I Live By
+
+> **"Small improvements every day lead to remarkable results."**
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
