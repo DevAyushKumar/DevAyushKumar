@@ -67,17 +67,6 @@
 
 ---
 
-# 🎯 2026 Goals
-
-- 📖 Master JavaScript
-- 💻 Build 10+ Quality Projects
-- 🧩 Solve 300+ DSA Problems
-- 🌍 Participate in Hackathons
-- ⭐ Contribute to Open Source
-- 🚀 Become Job Ready
-
----
-
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DevAyushKumar&show_icons=true&theme=tokyonight&hide_border=true)
