@@ -2,10 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BCA+Student+%40+SRM+IST+KTR;Aspiring+Backend+Developer;Learning+JavaScript+%7C+DSA+%7C+Node.js;Future+Cybersecurity+Engineer" alt="Typing SVG" />
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=DevAyushKumar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
-
 </div>
 
 ---
