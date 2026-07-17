@@ -23,7 +23,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,js,html,css,py" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,py" />
 </p>
 
 ### Currently Learning
