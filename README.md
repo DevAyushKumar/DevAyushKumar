@@ -27,7 +27,7 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,js,html,css" />
+<img src="https://skillicons.dev/icons?i=c,js,html,css,py" />
 </p>
 
 ### Currently Learning
