@@ -29,7 +29,7 @@
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,django" />
 </p>
 
 ### Planning to Learn
