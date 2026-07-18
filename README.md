@@ -73,8 +73,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevAyushKumar&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAyushKumar&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 # 🛠 Tools I Use
