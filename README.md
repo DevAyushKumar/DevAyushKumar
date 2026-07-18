@@ -132,7 +132,7 @@ Cybersecurity            ███░░░░░░░░░░░░
 
 ### 💬 Quote I Live By
 
-> **"Small improvements every day lead to remarkable results."**
+> **"Obsession beats talent."**
 
 ⭐ *Thanks for visiting my profile!*
 
