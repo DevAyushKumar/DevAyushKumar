@@ -20,17 +20,43 @@
 
 # 💻 Tech Stack
 
-### Languages
+<table>
+<tr>
+<td><b>🧩 Frontend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,express,mongodb,mysql,c,py" />
-</p>
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</td>
+</tr>
 
-### Currently Learning
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,linux,django" />
-</p>
+<tr>
+<td><b>☁️ Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=c,py" />
+</td>
+</tr>
+</table>
+
 
 ### Planning to Learn
 
