@@ -52,7 +52,7 @@
 <tr>
 <td><b>💻 Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=c,py" />
+<img src="https://skillicons.dev/icons?i=c,c++,py" />
 </td>
 </tr>
 </table>
