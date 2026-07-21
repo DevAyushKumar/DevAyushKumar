@@ -23,13 +23,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,py" />
+<img src="https://skillicons.dev/icons?i=html,css,js,express,mongodb,mysql,c,py" />
 </p>
 
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,linux,django" />
 </p>
 
 ### Planning to Learn
@@ -51,19 +51,19 @@
 
 ✅ HTML & CSS
 
-🔄 JavaScript
+✅ JavaScript
 
 ⬜ DSA
 
-⬜ Node.js
+✅ Node.js
 
 ⬜ Express.js
 
-⬜ Databases
+✅ Databases
 
 ⬜ Full Stack Projects
 
-⬜ Open Source
+✅ Open Source
 
 ---
 
