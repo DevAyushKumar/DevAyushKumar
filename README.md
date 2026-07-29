@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BCA+Student+%40+SRM+IST+KTR;Aspiring+Backend+Developer;Learning+Python+%7C+DSA+%7C+Django+Flask;Future+Cybersecurity+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=BCA+Student+%40+SRM+IST+KTR;Aspiring+Backend+Developer;Learning+Django+%7C+DSA+%7C+Flask;Future+Cybersecurity+Engineer" alt="Typing SVG" />
 
 </div>
 
