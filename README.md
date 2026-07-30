@@ -38,7 +38,7 @@
 <tr>
 <td><b>🗄️ Database</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgressql" />
 </td>
 </tr>
 
