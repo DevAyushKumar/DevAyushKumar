@@ -31,7 +31,7 @@
 <tr>
 <td><b>⚙️ Backend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=django,flask" />
 </td>
 </tr>
 
